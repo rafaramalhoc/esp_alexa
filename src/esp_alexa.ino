@@ -17,8 +17,8 @@ void secondLightChanged(uint8_t brightness);
 void thirdLightChanged(uint8_t brightness);
 
 // Change this!!
-const char* ssid = "RRC_CLig";
-const char* password = "q1p0w2o9";
+const char* ssid = "";
+const char* password = "";
 
 boolean wifiConnected = false;
 
